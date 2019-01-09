@@ -2,3 +2,4 @@
 *.dat
 results/
 !a.dat
+!results/data
